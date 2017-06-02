@@ -1,0 +1,22 @@
+{
+    "name": "rapidwebltd/SiteMapUrlChecker",
+    "description": "Checks the response from a url stored in a file",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrew McDonald",
+            "email": "andrew.mcdonald@rapidweb.biz"
+        }
+    ],
+    "require": {
+        "rapidwebltd/uxdm": "^1.8",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RapidWeb\\SiteMapUrlChecker\\": "src/"
+        }
+    },
+    "license": "LGPL3"
+}
+
