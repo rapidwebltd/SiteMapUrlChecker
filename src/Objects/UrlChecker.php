@@ -33,7 +33,6 @@ abstract class UrlChecker
         $migrator->setSource($sourceCsv)
                  ->setDestination($destinationCsv)
                  ->setFieldsToMigrate([$sourceField])
-                 ->setFieldMap([$sourceField,$destinationField])
                  ->setDataRowManipulator(function($dataRow) use ($sourceField,$destinationField){   
                  $url =  $dataRow->getDataItemByFieldName($sourceField);
 
