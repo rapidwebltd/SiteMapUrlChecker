@@ -1,5 +1,5 @@
 {
-    "name": "rapidwebltd/SiteMapUrlChecker",
+    "name": "rapidwebltd/site-map-url-checker",
     "description": "Checks the response from a url stored in a file",
     "type": "library",
     "authors": [
