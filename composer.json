@@ -1,6 +1,6 @@
 {
     "name": "rapidwebltd/site-map-url-checker",
-    "description": "Checks the response from a url stored in a file",
+    "description": "The Site Map URL Checker enables you to run an automatic checks for the response from a list of urls stored in a file.",
     "type": "library",
     "authors": [
         {
