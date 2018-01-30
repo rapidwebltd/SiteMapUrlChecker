@@ -6,6 +6,10 @@
         {
             "name": "Andrew McDonald",
             "email": "andrew.mcdonald@rapidweb.biz"
+        },
+        {
+            "name": "Jordan Hall",
+            "email": "jordan.hall@rapidweb.biz"
         }
     ],
     "require": {
@@ -17,6 +21,6 @@
             "RapidWeb\\SiteMapUrlChecker\\": "src/"
         }
     },
-    "license": "LGPL3"
+    "license": "LGPL-3.0-only"
 }
 
